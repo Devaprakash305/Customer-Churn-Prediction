@@ -4,7 +4,7 @@
 Customer churn prediction aims to identify customers who are likely to stop using a service. This project uses a telecom dataset to analyze churn patterns and build machine learning models for prediction.
 
 ## 📊 Dataset
-- Telecom Customer Churn Dataset
+- Customer Churn Prediction.csv
 - 7043 records, 21 features
 - Target variable: Churn (Yes / No)
 
@@ -34,4 +34,5 @@ Customer churn prediction aims to identify customers who are likely to stop usin
 ## 🚀 How to Run
 ```bash
 pip install -r requirements.txt
-python customer_churn_prediction.py
+python Customer Churn Prediction.py
+
