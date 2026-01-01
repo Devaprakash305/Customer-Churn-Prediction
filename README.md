@@ -31,8 +31,26 @@ Customer churn prediction aims to identify customers who are likely to stop usin
 - Scikit-learn
 - XGBoost
 
+## 📸 Project Visuals
+
+### Churn Distribution
+![Churn Distribution](images/Churn Distribution.png)
+
+### Monthly Charges vs Chur
+![Monthly Charges vs Chur](images/Monthly Charges vs Chur.png)
+
+### Tenure vs Churn
+![Tenure vs Churn](images/Tenure vs Churn.png)
+
+### Churn by Contract Type
+![Churn by Contract Type](images/Churn by Contract Type.png)
+
+### Model Results
+![Model Results](images/Models Results.png)
+
 ## 🚀 How to Run
 ```bash
 pip install -r requirements.txt
 python Customer Churn Prediction.py
+
 
