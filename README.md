@@ -41,11 +41,28 @@ Customer churn prediction aims to identify customers who are likely to stop usin
 
 - These images has been stored in the folder named images
 
+## 📸 Project Visuals
+
+### Churn Distribution
+![Churn Distribution](images/churn_distribution.png)
+
+### Contract vs Churn
+![Contract vs Churn](images/Churn_by_Contract_Type.png)
+
+### Tenure vs Churn
+![Tenure vs Churn](images/Tenure_vs_Churn.png)
+
+### Monthly Charges vs Churn
+![Monthly Charges vs Churn](images/Monthly_Charges_vs_Chur.png)
+
+### Model Results
+![Model Results](images/model_results.png) 
 
 ## 🚀 How to Run
 ```bash
 pip install -r requirements.txt
 python Customer Churn Prediction.py
+
 
 
 
